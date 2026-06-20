@@ -1,7 +1,7 @@
 # Hi, I'm Maria Camila Rodriguez 👋
 ### Data Analyst | MSc. Biological Sciences | R&D Researcher
 
-I am a scientist with over 7 years of experience in biotech research, now leveraging data to solve complex problems. My background in molecular biology gives me a unique perspective on data rigor and pattern recognition.
+I am a scientist with over 7 years of experience in biotech research, now leveraging data to solve complex problems. My background in molecular biology gives me a perspective on data rigor and pattern recognition.
 
 ---
 
