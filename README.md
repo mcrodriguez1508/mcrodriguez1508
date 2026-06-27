@@ -1,13 +1,13 @@
-# Hi, I'm Maria Camila Rodriguez 👋
+# Hi, I'm Maria Camila Rodriguez
 ### Data Analyst | MSc. Biological Sciences | R&D Researcher
 
-I am a scientist with over 7 years of experience in biotech research, now leveraging data to solve complex problems. My background in molecular biology gives me a perspective on data rigor and pattern recognition.
+I am a scientist with over 8 years of experience in biotech research, now leveraging data to solve complex problems. My background in molecular biology gives me a unique perspective on data rigor, experimental design, and pattern recognition.
 
 ---
 
 ### 🚀 About Me
 - 🔭 **I’m currently working on:** Leading R&D project tracking and Technological Scouting. I focus on identifying biotech trends and transforming technical data into strategic insights for senior management.
-- 🌱 **I’m curently focus on:** Advanced Data Analytics & Business Intelligence at TripleTen.
+- 🌱 **I’m currently focusing on:** Advanced Data Analytics & Business Intelligence.
 - 👯 **I’m looking to collaborate on:** Open-source projects related to Health-Tech, Agri-Tech, or Urban Data.
 - 💬 **Ask me about:** Molecular biology, Tech Scouting, and how to bridge the gap between scientific research and data analytics.
 - 📫 **How to reach me:** mcrodriguez1508@gmail.com
@@ -16,19 +16,33 @@ I am a scientist with over 7 years of experience in biotech research, now levera
 ---
 
 ### 🛠 Tech Stack
-- **Languages:** Python (Pandas, NumPy, Seaborn), SQL (PostgreSQL), R.
-- **Tools:** Tableau, Power BI, GitHub, Jupyter Notebooks.
-- **Scientific:** Bioinformatics (Geneious, MEGA, so on), Tech Scouting, Project Management.
+- **Languages:** Python (Pandas, NumPy, Seaborn, SciPy), SQL (PostgreSQL), R.
+- **Tools:** Power BI, Tableau, GitHub, Jupyter Notebooks.
+- **Scientific/Research:** Bioinformatics (Geneious, MEGA, etc.), Tech Scouting (Biblioshiny, VOSviewer), Project Management.
 
 ---
 
 ## 📂 Featured Projects
 
+### 🛒 E-Commerce & Growth Analytics
 | Project | Tools | Key Insight |
 | :--- | :--- | :--- |
-| **[Urban Mobility & Economy](https://github.com/mcrodriguez1508/Urban_Mobility_Analysis)** | Python, Pandas | Identified how traffic congestion acts as a "glass ceiling" for GDP growth. |
-| **[MercadoLibre Funnel Analysis](https://github.com/mcrodriguez1508/MercadoLibre_SQL_Analysis)** | SQL, Cohorts | Detected 85% drop-off at cart stage and proposed regional optimization. |
-| **[Financial ROI Audit](https://github.com/mcrodriguez1508/Financial_Performance_SQL)** | SQL, Finance | Audited 6 markets to reallocate budget from low-ROI regions to high-growth ones. |
+| **[Ecommerce Conversion & Cohort Analysis](https://github.com/mcrodriguez1508/Ecommerce-conversion-cohort-analysis)** | Python, SQL, Power BI | End-to-end funnel optimization, cohort retention tracking, and A/B testing evaluation. |
+| **[A/B Test Landing Page Optimization](https://github.com/mcrodriguez1508/ab-test-landing-page-opt)** | Python | Comprehensive A/B testing framework evaluating landing page variants, revenue impact, and traffic source efficiency. |
+| **[MercadoLibre Funnel Analysis](https://github.com/mcrodriguez1508/MercadoLibre_SQL_Analysis)** | SQL, Cohorts | Analyzed user behavior across 10 countries. Detected critical conversion bottlenecks at the cart stage and proposed regional growth strategies. |
+
+### 📊 Business Intelligence & Financial Analytics
+| Project | Tools | Key Insight |
+| :--- | :--- | :--- |
+| **[Commercial Performance Analytics](https://github.com/mcrodriguez1508/commercial-performance-analytics)** | Power BI, DAX | Built an end-to-end BI solution transforming regional retail transactional data into strategic insights with custom metrics. |
+| **[Financial ROI Audit](https://github.com/mcrodriguez1508/Financial_Performance_SQL)** | SQL, Finance | Audited marketing spend efficiency and global ROI across 6 international markets to optimize budget allocation. |
+
+### 🧪 Advanced Customer Analytics & Data Science
+| Project | Tools | Key Insight |
+| :--- | :--- | :--- |
+| **[NovaRetail+ Behavior Analysis](https://github.com/mcrodriguez1508/NovaRetail-Plus-Analysis)** | Python, Seaborn, SciPy | Performed robust statistical analysis and hypothesis testing to identify customer behavior and revenue drivers. |
+| **[ConnectaTel User Segmentation](https://github.com/mcrodriguez1508/ConnectaTel-Analysis)** | Python (Jupyter) | Data-driven user segmentation and behavior analysis to optimize telecommunications service plans. |
+| **[Urban Mobility & Economy](https://github.com/mcrodriguez1508/Urban_Mobility_Analysis)** | Python, Pandas | Investigated macroeconomic data to identify how traffic congestion acts as a "glass ceiling" for GDP growth. |
 
 ---
 
